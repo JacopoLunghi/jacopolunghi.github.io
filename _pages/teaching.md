@@ -52,7 +52,10 @@ Online options: [Teams Virtual Room](https://teams.microsoft.com/l/meetup-join/1
 
 ---
 
-## Teaching History
+<details>
+<summary><h3>Teaching History</h3></summary>
+
+<br>
 
 <strong>Economics Module I (Microeconomics)</strong> ([Fall 2020-Spring 2026)](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30065&anno=2021&ric_cdl=TR01&IdPag=6351)
 - Role: In-class teaching activities
@@ -79,3 +82,5 @@ Online options: [Teams Virtual Room](https://teams.microsoft.com/l/meetup-join/1
 - Role: In-class teaching activities
 - Stockholm School of Economics (412)
 - [Evaluations](https://jacopolunghi.github.io\assets\pdf\teaching\hhs\teacher_report_hhs.pdf)
+
+</details>
