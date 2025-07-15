@@ -14,7 +14,7 @@ nav_order: 3
 Book office hours at the link below. When booking a slot, please specify your preference between online and in-person meeting. If the slot is available, the booking is automatically confirmed, I will reach out to you in case I am not able to meet. Upon availability and if necessary, you can to book more than one slot.
 If there are no more slots available but you are in urgent need for clarifications, please reach out by e-mail.
 
-In-person options: 
+In-person options:
 - Bocconi office: 5-e2-06 (Rontgen 1 building)
 - BASE office (Via Bergognone 34, Milan)
 
@@ -47,10 +47,12 @@ Online options: [Teams Virtual Room](https://teams.microsoft.com/l/meetup-join/1
 ---
 ### Currently Teaching
 <strong>Economics Module I (Microeconomics)</strong> (Bocconi University)
+
 <strong> Environmental Economic and Policy  </strong> (University of Milan)
+
 ---
 
-### Teaching History
+## Teaching History
 
 <strong>Economics Module I (Microeconomics)</strong> ([Fall 2020-Spring 2026)](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30065&anno=2021&ric_cdl=TR01&IdPag=6351)
 - Role: In-class teaching activities
