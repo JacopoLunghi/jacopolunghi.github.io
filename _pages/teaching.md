@@ -51,11 +51,42 @@ Online options: [Teams Virtual Room](https://teams.microsoft.com/l/meetup-join/1
 <strong> Environmental Economic and Policy  </strong> (University of Milan)
 
 ---
+<details>
+  <summary><h3>Teaching History</h3></summary>
+  <ul>
+    <li>
+      <strong>Economics Module I (Microeconomics)</strong>
+      (<a href="http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30065&anno=2021&ric_cdl=TR01&IdPag=6351">Fall 2020–Spring 2026</a>) – Role: In-class teaching activities – Bocconi University (30065)<br>
+      Evaluations:
+      <a href="https://jacopolunghi.github.io/assets/pdf/teaching/bocconi/2021-2022_30065_79335_4_ISem.pdf">2020–21</a>,
+      <a href="https://jacopolunghi.github.io/assets/pdf/teaching/bocconi/2021-2022_30065_79335_4_ISem.pdf">2021–22</a>,
+      <a href="https://jacopolunghi.github.io/assets/pdf/teaching/bocconi/2023-2024 teaching evaluation JL (30065).pdf">2023–24</a>,
+      <a href="https://jacopolunghi.github.io/assets/pdf/teaching/bocconi/2024-2025 teaching evaluation JL (30065).pdf">2024–25</a>
+    </li>
+    <li>
+      <strong>Econometrics</strong>
+      (<a href="https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30413&anno=2021&IdPag=6351">Spring 2022</a>) – Role: In-class teaching activities (R + theory sessions) – Bocconi University (30413)<br>
+      Evaluations:
+      <a href="https://jacopolunghi.github.io/assets/pdf/teaching/bocconi/2021-2022_30413_79335_25_IISem.pdf">2021–22</a>
+    </li>
+    <li>
+      <strong>Economics Module II (Macroeconomics)</strong>
+      (<a href="https://didattica.unibocconi.it/ts/tsn_anteprima2006.php?IdPag=6067&anno=2015&cod_ins=30066">Spring 2020–Spring 2022</a>) – Role: In-class teaching activities – Bocconi University (30066)
+    </li>
+    <li>
+      <strong>Empirical Methods for Economics (Intro to Econometrics)</strong>
+      (<a href="https://didattica.unibocconi.eu/ts/tsn_anteprima.php?cod_ins=30284&anno=2023&IdPag=6936">Fall 2023–Spring 2024</a>) – Role: Office hours, grading – Bocconi University (30284)
+    </li>
+    <li>
+      <strong>Macroeconomics and Economic Policy</strong>
+      (<a href="https://pcw.hhs.se/course/412">Spring 2019</a>) – Role: In-class teaching activities – Stockholm School of Economics (412)<br>
+      <a href="https://jacopolunghi.github.io/assets/pdf/teaching/hhs/teacher_report_hhs.pdf">Evaluations</a>
+    </li>
+  </ul>
+</details>
 
 <details>
-<summary><h3>Teaching History</h3></summary>
-
-<br>
+### Teaching History
 
 <strong>Economics Module I (Microeconomics)</strong> ([Fall 2020-Spring 2026)](http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30065&anno=2021&ric_cdl=TR01&IdPag=6351)
 - Role: In-class teaching activities
@@ -82,5 +113,3 @@ Online options: [Teams Virtual Room](https://teams.microsoft.com/l/meetup-join/1
 - Role: In-class teaching activities
 - Stockholm School of Economics (412)
 - [Evaluations](https://jacopolunghi.github.io\assets\pdf\teaching\hhs\teacher_report_hhs.pdf)
-
-</details>
