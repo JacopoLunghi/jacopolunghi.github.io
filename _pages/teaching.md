@@ -11,11 +11,11 @@ nav_order: 3
 ---
 ### Book your office hours
 
-Book office hours at the link below. When booking a slot, please specify your preference between online and in-person meeting. If the slot is available, the booking is automatically confirmed, I will reach out to you in case I am not able to meet. Upon availability and if necessary, you can to book more than one slot.
+Book office hours at the link below. When booking a slot, please specify your preference between online and in-person meeting. In case of in-person meeting, it will take place in the Rontgen building, and you will receive a separate email with the exact room location depending on temporary office space availability. If the slot is available and you book it, the booking is automatically confirmed, and no further action is needed. I will reach out to you in case I am not able to meet. Upon availability and if necessary, you can book more than one slot.
 If there are no more slots available but you are in urgent need for clarifications, please reach out by e-mail.
 
 In-person options:
-- Bocconi office: 5-e2-06 (Rontgen 1 building)
+- Bocconi office (Rontgen 1 building)
 - BASE office (Via Bergognone 34, Milan)
 
 Online options: [Teams Virtual Room](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OTY4NjZhMmMtNWVmOC00ZmE4LWExNzEtYmI2MjVmNWQ1ZmVk%40thread.v2/0?context=%7b%22Tid%22%3a%226bf3b57a-9fb4-47c2-9ada-51156518f52f%22%2c%22Oid%22%3a%22ee5dd981-717e-454e-8f18-99856c435a11%22%7d)
