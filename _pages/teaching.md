@@ -77,7 +77,7 @@ Online options: [Teams Virtual Room](https://teams.microsoft.com/l/meetup-join/1
     <li>
       <strong>Macroeconomics and Economic Policy</strong>
       (<a href="https://pcw.hhs.se/course/412">Spring 2019</a>) – Role: In-class teaching activities – Stockholm School of Economics (412)<br>
-      <a href="https://jacopolunghi.github.io/assets/pdf/teaching/hhs/teacher_report_hhs.pdf">Evaluations</a>
+      Evaluations: <a href="https://jacopolunghi.github.io/assets/pdf/teaching/hhs/teacher_report_hhs.pdf">[2019]</a>
     </li>
   </ul>
 </details>
