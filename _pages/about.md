@@ -29,9 +29,9 @@ social: true  # includes social icons at the bottom of the page
 
 *Welcome to my webpage!*
 
-I am a Post Doc at the CMCC European Institute on Economics and the Environment, and a teaching assistant at Bocconi University Milan. I hold a Ph.D. in Economics at Bocconi University, and a M.Sc. in Applied Economic Analysis from Stockholm School of Economics.
+I am a Post Doc at the CMCC European Institute on Economics and the Environment, and a teaching assistant at Bocconi University and University of Milan. I hold a Ph.D. in Economics at Bocconi University, and a M.Sc. in Applied Economic Analysis from Stockholm School of Economics.
 
-My research interests include environmental economics, health economics, climate change, economic development, and migration studies.
+My research interests include environmental and energy economics, climate change, and migration studies.
 
 I am currently based in Milan. Check my schedule below to know where I am working from.
 

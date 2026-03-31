@@ -48,7 +48,7 @@ Online options: [Teams Virtual Room](https://teams.microsoft.com/l/meetup-join/1
 ### Currently Teaching
 <strong>Economics Module I (Microeconomics)</strong> (Bocconi University)
 
-<strong> Environmental Economic and Policy  </strong> (University of Milan)
+<strong> Environmental Economics and Policy  </strong> (University of Milan)
 
 ---
 <details>
@@ -58,7 +58,7 @@ Online options: [Teams Virtual Room](https://teams.microsoft.com/l/meetup-join/1
       <strong>Economics Module I (Microeconomics)</strong>
       (<a href="http://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=30065&anno=2021&ric_cdl=TR01&IdPag=6351">Fall 2020–Spring 2026</a>) – Role: In-class teaching activities – Bocconi University (30065)<br>
       Evaluations:
-      <a href="https://jacopolunghi.github.io/assets/pdf/teaching/bocconi/teaching _eval_before2022.pdf">[Before 2022 - old format]</a>, <a href="https://jacopolunghi.github.io/assets/pdf/teaching/bocconi/teaching _eval_after2022.pdf">[After 2022 - new format]</a>, 
+      <a href="https://jacopolunghi.github.io/assets/pdf/teaching/bocconi/teaching _eval_before2022.pdf">[Before 2022 - old format]</a>, <a href="https://jacopolunghi.github.io/assets/pdf/teaching/bocconi/teaching _eval_after2022.pdf">[After 2022 - new format]</a>,
     </li>
     <li>
       <strong>Econometrics</strong>
