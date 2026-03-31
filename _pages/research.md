@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: Research
 description:
-years: [2024, Ongoing]
+years: [2026, 2024, Ongoing]
 nav: true
 nav_order: 3
 ---
