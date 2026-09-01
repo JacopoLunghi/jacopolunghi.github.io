@@ -29,7 +29,7 @@ social: true  # includes social icons at the bottom of the page
 
 *Welcome to my webpage!*
 
-I am a Post Doc at the CMCC European Institute on Economics and the Environment, and a teaching assistant at Bocconi University and University of Milan. I hold a Ph.D. in Economics at Bocconi University, and a M.Sc. in Applied Economic Analysis from Stockholm School of Economics.
+I am a Post-Doc researcher at the CMCC European Institute on Economics and the Environment, and a teaching assistant at Bocconi University and University of Milan. I hold a Ph.D. in Economics at Bocconi University, and a M.Sc. in Applied Economic Analysis from Stockholm School of Economics.
 
 My research interests include environmental and energy economics, climate change, and migration studies.
 
