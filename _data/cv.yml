@@ -54,7 +54,7 @@
   contents:
     - year: 2025
       items:
-        - IAERE Young Environmental Economist Award 
+        - IAERE Young Environmental Economist Award
     - year: 2023
       items:
         - Bocconi Junior Researchers' Grants (Fondazione Invernizzi)
@@ -85,11 +85,11 @@
     - title:
       items:
         - Environmental Economics
+        - Energy Economics
         - Climate Change
         - Migration
         - Health Economics
-        - Development Economics
 
 - title: Skills and Hobbies
   type: list
-  contents: <p><u>Computer languagues:</u> Stata, R, Python, QGIS, Matlab, LaTeX, CSS, Qualtrics.</p> <p><u>Languages:</u> Italian, English, French, Spanish.</p><p><u>Hobbies:</u> Basketball, Surfing, Snowboarding, Hiking, Biology, Chess.
+  contents: <p><u>Computer languagues:</u> Stata, R, Python, QGIS, Matlab, LaTeX, CSS, Qualtrics.</p> <p><u>Languages:</u> Italian, English, French, Spanish.</p><p><u>Hobbies:</u> Basketball, Surfing, Climbing, Biology, Chess.
